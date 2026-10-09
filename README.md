@@ -71,3 +71,12 @@ No deben utilizarse variantes no oficiales del logotipo.
 Actualmente la identidad visual continúa evolucionando.
 
 Las futuras versiones podrán ampliar este documento.
+
+# Licencia
+
+El material gráfico de este proyecto está licenciado bajo:
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
